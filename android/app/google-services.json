@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360516462357",
+    "project_id": "sebet-1",
+    "storage_bucket": "sebet-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360516462357:android:fe14826c032273267bab1c",
+        "android_client_info": {
+          "package_name": "com.example.real_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360516462357-ujccg2q3bs6oco4grb96p6nkmrm55jc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjt-d63Nj70rKDWl0itrc4Puf6V5LXFbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360516462357-ujccg2q3bs6oco4grb96p6nkmrm55jc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
